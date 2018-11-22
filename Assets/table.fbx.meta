@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 8a0fc04b80de97943a5daf64b7cd755d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group1
+    100002: Group2
+    100004: Group3
+    100006: Group4
+    100008: KARE_72066_Coffeetable_Grande_Possibilita_Oval___Couchtisch_Grande_Possibilita_Oval__1
+    100010: KARE_72066_Coffeetable_Grande_Possibilita_Oval__Couchtisch_Grande_Possibilita_Oval_1
+    100012: Mesh1
+    100014: Mesh2
+    100016: Mesh3
+    100018: //RootNode
+    100020: node_id10
+    100022: node_id11
+    100024: node_id12
+    100026: node_id14
+    100028: node_id15
+    100030: node_id17
+    100032: node_id5
+    100034: node_id6
+    100036: node_id8
+    100038: node_id9
+    400000: Group1
+    400002: Group2
+    400004: Group3
+    400006: Group4
+    400008: KARE_72066_Coffeetable_Grande_Possibilita_Oval___Couchtisch_Grande_Possibilita_Oval__1
+    400010: KARE_72066_Coffeetable_Grande_Possibilita_Oval__Couchtisch_Grande_Possibilita_Oval_1
+    400012: Mesh1
+    400014: Mesh2
+    400016: Mesh3
+    400018: //RootNode
+    400020: node_id10
+    400022: node_id11
+    400024: node_id12
+    400026: node_id14
+    400028: node_id15
+    400030: node_id17
+    400032: node_id5
+    400034: node_id6
+    400036: node_id8
+    400038: node_id9
+    2100000: Color_000
+    2100002: Material_59
+    2100004: Material_61
+    2100006: Material_63
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: node_id12
+    2300008: node_id15
+    2300010: node_id6
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: node_id12
+    3300008: node_id15
+    3300010: node_id6
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: node_id6
+    4300008: node_id12
+    4300010: node_id15
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
