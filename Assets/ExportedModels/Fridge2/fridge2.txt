@@ -1,0 +1,5 @@
+Model Name:Bosch-Refrigeration-B22CS50SNW
+Designer:Bosch
+Place of origin:Ghana
+Price:1264
+Category:fridge

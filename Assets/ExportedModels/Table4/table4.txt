@@ -1,0 +1,5 @@
+Model Name:IKEA BUSKBO Coffee table
+Designer:Alons
+Place of origin:Ghana
+Price:1944
+Category:table

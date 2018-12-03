@@ -1,0 +1,5 @@
+Model Name:lampa
+Designer:ianna
+Place of origin:Zimbabwe
+Price:700
+Category:lamp

@@ -1,0 +1,5 @@
+Model Name:Bosch-SIR-HDI8054U
+Designer:Bosch
+Place of origin:Ethiopia
+Price:1668
+Category:stove

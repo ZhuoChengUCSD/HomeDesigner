@@ -1,0 +1,14 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Mtl_Stainless_Steel
+Ka 0.000000 0.000000 0.000000
+Kd 0.839216 0.831373 0.847059
+Ks 0.330000 0.330000 0.330000
+
+newmtl Mtl_Chrome
+Ka 0.000000 0.000000 0.000000
+Kd 0.952941 0.952941 0.952941
+Ks 0.330000 0.330000 0.330000
+

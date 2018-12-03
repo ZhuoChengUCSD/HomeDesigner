@@ -1,0 +1,5 @@
+Model Name:Bosch-Microwaves-HMC80151UC
+Designer:Bosch
+Place of origin:Colombia
+Price:1889
+Category:microwave

@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl ash31
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.262745 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd bed1/ash31.jpg
+
+newmtl maple65
+Ka 0.000000 0.000000 0.000000
+Kd 0.921569 0.819608 0.623529
+Ks 0.330000 0.330000 0.330000
+map_Kd bed1/maple65.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+

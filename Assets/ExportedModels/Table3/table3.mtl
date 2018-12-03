@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Carpet_Plush_Pebble
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.368627 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd table3/Carpet_Plush_Pebble.jpg
+
+newmtl ash31
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.262745 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd table3/ash31.jpg
+
+newmtl _Charcoal_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+

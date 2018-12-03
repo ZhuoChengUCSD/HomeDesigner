@@ -1,0 +1,5 @@
+Model Name:Bosch-Refrigeration-B30BB830SS
+Designer:Bosch
+Place of origin:Qatar
+Price:819
+Category:fridge

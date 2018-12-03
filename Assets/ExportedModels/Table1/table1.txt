@@ -1,0 +1,6 @@
+Model Name:Work Bench
+Designer:Peter Gee
+Place of origin:Monaco
+Price:819
+Category:table
+

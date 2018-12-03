@@ -1,0 +1,5 @@
+Model Name:fauteuil jardin
+Designer:Gabby V.
+Place of origin:China
+Price:437
+Category:chair

@@ -1,0 +1,5 @@
+Model Name:Bosch-Refrigeration-B22CS30SNS
+Designer:Bosch
+Place of origin:Uganda
+Price:1487
+Category:fridge

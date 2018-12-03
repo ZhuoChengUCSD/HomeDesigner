@@ -1,0 +1,5 @@
+Model Name:Bosch-Microwaves-HMV5052U
+Designer:Bosch
+Place of origin:Somalia
+Price:1602
+Category:microwave

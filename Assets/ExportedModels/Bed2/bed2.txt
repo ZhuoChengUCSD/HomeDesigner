@@ -1,0 +1,5 @@
+Model Name:Vita Bed Queen
+Designer:Thos. Moser
+Place of origin:Burundi
+Price:1800
+Category:bed

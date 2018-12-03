@@ -1,0 +1,5 @@
+Model Name:Bosch-SIR-HEIP054U
+Designer:Bosch
+Place of origin:Tonga
+Price:806
+Category:stove

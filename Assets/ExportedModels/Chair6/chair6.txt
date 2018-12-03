@@ -1,0 +1,5 @@
+Model Name:Little Black Chair
+Designer:davidheim
+Place of origin:Bulgaria
+Price:766
+Category:chair

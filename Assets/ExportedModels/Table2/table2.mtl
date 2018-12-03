@@ -1,0 +1,32 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl ash31
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.262745 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd table2/ash31.jpg
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.290196 0.223529
+Ks 0.330000 0.330000 0.330000
+map_Kd table2/_Charcoal_.jpg
+
+newmtl _Gray6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Carpet_Plush_Pebble
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.368627 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd table2/Carpet_Plush_Pebble.jpg
+

@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl ash1
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.262745 0.039216
+Ks 0.330000 0.330000 0.330000
+map_Kd Chair1/ash1.jpg
+
+newmtl Fabric_Complexion
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.784314 0.745098
+Ks 0.330000 0.330000 0.330000
+map_Kd Chair1/Fabric_Complexion.jpg
+
